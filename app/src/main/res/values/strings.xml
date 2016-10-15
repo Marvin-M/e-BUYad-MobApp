@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">E-BUYad</string>
+    <string name="username_hint">Username/Member ID</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Log In</string>
+    <string name="login_qr_text">QR Code Log In</string>
+    <string name="logging_in_text">Logging In…</string>
+    <string name="invalid_user_pass_text">Invalid Username/Password</string>
+    <string name="username_empty_text">Nothing to read.</string>
+    <string name="username_not_found_text">ID not found</string>
+    <string name="try_again_text">Try Again</string>
+    <string name="password_mismatch_text">Password does not match</string>
+    <string name="title_activity_home">Home</string>
+    <string name="address_text">Address:</string>
+    <string name="birthday_text">Birthday:</string>
+    <string name="osca_id_text">OSCA ID:</string>
+    <string name="email_text">Email:</string>
+    <string name="user_not_found_text">User info not found</string>
+    <string name="profile_picture_text">Profile Picture</string>
+    <string name="load_point_misc_text">Currently, your account has:</string>
+    <string name="no_load_point_text">###</string>
+    <string name="point_text">Points</string>
+    <string name="and_text">AND</string>
+    <string name="load_balance_text">Load Balance</string>
+    <string name="load_point_tip_text">
+        Tip: You can use your points and load balance to purchase items from the store.
+    </string>
+    <string name="loading_text">Loading…</string>
+    <string name="empty_trans_history_text">Empty Transaction History</string>
+    <string name="empty_shop_item_text">Empty Shop Items</string>
+    <string name="generic_name_text">Generic Name</string>
+    <string name="brand_text">Brand</string>
+    <string name="dosage_text">Dosage</string>
+    <string name="price_text">Price</string>
+    <string name="add_to_shopping_list_text">Add to Shopping List</string>
+    <string name="quantity_text">Quantity</string>
+    <string name="clear_all_text">Clear All</string>
+    <string name="shopping_list_clear_text">Shopping lists successfully cleared</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Profile</string>
+    <string name="title_activity_load_point">e-BUYad Card Details</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name="title_activity_view_card">Your Card Details</string>
+    <string name="title_activity_history">Transaction History</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_shopping_cart_list">Your Shopping Cart</string>
+</resources>

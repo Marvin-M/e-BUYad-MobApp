@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/history_cardview"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="10dp"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    app:cardBackgroundColor="@color/cast_intro_overlay_button_background_color"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/date_of_transaction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/total_amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            android:paddingStart="@dimen/activity_horizontal_margin"
+            android:paddingEnd="@dimen/activity_horizontal_margin"
+            android:gravity="end"
+            android:paddingRight="@dimen/activity_horizontal_margin" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>
